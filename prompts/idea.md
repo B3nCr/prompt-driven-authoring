@@ -1,0 +1,1 @@
+Write a blog with reflections on the PDD process which is described in the prompts/pdd-script.md file

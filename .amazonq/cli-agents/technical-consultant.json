@@ -31,10 +31,15 @@
     "toolAliases": {},
     "allowedTools": [
       "fs_read",
-      "fetch"
+      "fs_write", 
+      "introspect",
+      "report_issue",
+      "use_aws",
+      "@fetch/*",
+      "@aws-knowledge-mcp-server/*",
+      "@awslabs.aws-diagram-mcp-server/*"
     ],
     "resources": [
-      "file://AmazonQ.md",
       "file://.amazonq/rules/**/*.md"
     ],
     "hooks": {},
